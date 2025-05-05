@@ -431,7 +431,10 @@ lines(xfit, yfit, col="red", lwd=2)
 
 plot(reg_robust, which=2)
 
-res.std <- rstandard(reg_robust)
+res <- residuals(reg_robust)
+lev <- hatvalues(reg_robust)
+s <- reg_robust$s
+res.std <- res / (s * sqrt(1 - lev))
 boxplot(res.std)
 
 jarque.bera.test(reg_robust$residuals)
@@ -521,5 +524,3 @@ nontypical_numb <- data[c(673, 1070, 1810), c(1:10)]
 
 # COLLINEARITY
 ols_vif_tol(reg_6)
-
-
