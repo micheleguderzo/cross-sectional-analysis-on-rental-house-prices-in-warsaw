@@ -1,0 +1,26 @@
+# R-related
+.Rhistory           # R history file
+.Rapp.history       # R app history file
+.RData              # R data file
+.Ruserdata          # R user data
+*.Rproj.user        # RStudio project user files
+*.Rproj             # RStudio project file
+
+# LaTeX-related
+*.aux               # LaTeX auxiliary files
+*.log               # LaTeX log files
+*.out               # LaTeX output files
+*.toc               # LaTeX table of contents
+*.pdf               # Compiled LaTeX output (if you don't want to track compiled PDFs)
+*.synctex.gz        # LaTeX synctex files
+
+# Data and output folders
+/data/*             # Ignore all files inside the 'data' directory (if you don't want to upload raw data)
+output/*            # Ignore all files inside the 'output' directory (if you don't want to upload results)
+
+# System files
+.DS_Store           # macOS system file
+Thumbs.db           # Windows system file
+
+# RStudio
+.Rproj.user/        # Ignore RStudio project-specific directory
