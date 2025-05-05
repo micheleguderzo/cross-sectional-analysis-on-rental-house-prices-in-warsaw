@@ -61,7 +61,7 @@ The dataset was collected from [Kaggle.com](https://www.kaggle.com/), consisting
 
 ## 📄 Final Report
 
-You can read the full report with methodology, regression models, and conclusions in [`report/econometrics_project.pdf`](report/econometrics_project.pdf).
+You can read the full report with methodology, regression models, and conclusions in [`report/final_report.pdf`](report/econometrics_project.pdf).
 
 ## 👤 Author
 
