@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green?logo=open-source-initiative)
 ![Status](https://img.shields.io/badge/status-finished-success?style=flat&logo=github)
 
-This repository contains the final project for the course **Econometrics**, carried out during the academic year 2021/2022 at the Faculty of Economic Sciences, University of Warsaw.
+This repository contains the final project for the **Econometrics** course, carried out during the academic year 2021/2022 at the Faculty of Economic Sciences, University of Warsaw.
 
 ## 📌 Project Overview
 
