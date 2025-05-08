@@ -32,7 +32,13 @@ The project was a collaborative effort, developed in partnership with a teammate
 
 ## 📊 Dataset
 
-The dataset was collected from [Kaggle.com](https://www.kaggle.com/), consisting of **housing rental listings** in Warsaw in 2021. The dataset was cleaned and prepared before the analysis. Variables with missing or inconsistent values were handled, and categorical variables (such as districts) were encoded as dummies. The cleaned dataset includes:
+The dataset, sourced from [Kaggle.com](https://www.kaggle.com/), contains **housing rental listings** in Warsaw from the year 2021.
+
+Before conducting the analysis, the dataset was cleaned and preprocessed. This included:
+- Handling missing or inconsistent values,
+- Encoding categorical variables (e.g., districts) into dummy variables.
+
+The final cleaned dataset includes:
 
 - 3347 observations  
 - 23 variables:  
