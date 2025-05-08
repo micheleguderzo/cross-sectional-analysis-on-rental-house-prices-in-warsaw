@@ -12,7 +12,6 @@ The goal of this project is to investigate the **determinants of rental house pr
 
 The project was a collaborative effort, developed in partnership with a teammate as part of an academic course.
 
-
 ## 🧠 Key Topics
 
 - Linear regression and model evaluation  
