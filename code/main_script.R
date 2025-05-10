@@ -1,4 +1,9 @@
-########## Econometrics - Manfredi Tirri & Michele Guderzo
+##############################
+##                          ##
+##  Econometrics - Project  ##
+##                          ##
+##############################
+
 
 library(moments)
 library(dplyr)
