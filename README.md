@@ -68,7 +68,7 @@ The final cleaned dataset includes:
 
 You can read the full report with methodology, regression models, and conclusions in [`report/final_report.pdf`](report/final_report.pdf).
 
-## 👤 Author
+## 👤 Authors
 
 **Michele Guderzo**  
 **Manfredi Tirri**
